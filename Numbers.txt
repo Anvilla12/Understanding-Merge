@@ -7,3 +7,9 @@
 004 - Four
 005 - Five
 006 - Six
+007 - Seven
+008 - Eight
+009 - Nine
+010 - Ten
+011 - Eleven
+012 - Twelve
