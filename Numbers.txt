@@ -1,15 +1,15 @@
-        NUMBERS
+        NUMEROS
 =========================
 
-001 - One
-002 - Two
-003 - Three
-004 - Four
-005 - Five
-006 - Six
-007 - Seven
-008 - Eight
-009 - Nine
-010 - Ten
-011 - Eleven
-012 - Twelve
+001 - Uno
+002 - Dos
+003 - Tres
+004 - Cuatro
+005 - Cinco
+006 - Seis
+007 - Siete
+008 - Ocho
+009 - Nueve
+010 - Diez
+011 - Once
+012 - Doce
